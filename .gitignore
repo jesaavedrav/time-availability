@@ -68,5 +68,4 @@ Pipfile.lock
 # MacOS
 .DS_Store
 
-# Images
-*.png 
+credentials.json
