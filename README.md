@@ -55,3 +55,10 @@ Your Google Sheet must have the following structure in **each worksheet**:
 - All worksheet tabs must have the same structure.
 - The script is written in Spanish but the README and output images are in English.
 - For any issues, please open an issue or contact the maintainer. 
+
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this code for any purpose, including commercial and non-commercial use, provided that the original copyright and license notice are included.
+
+See the LICENSE file for more details. 
+
